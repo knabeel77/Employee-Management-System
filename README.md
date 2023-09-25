@@ -11,7 +11,6 @@ To set up the database, follow these instructions:
 1. Create the database: CREATE DATABASE HRM_DO
 2. Use the newly created database: USE HRM_DO
 3. Run all the SQL files located in the `SQL_Scripts\HRM_DB_Dump` directory.
-4. Check file DB_Connection_Establishment for connection details and make any modification if required
 
 ## List of Endpoints:
 
